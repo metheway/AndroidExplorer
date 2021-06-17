@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/support-v4-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/internal_impl-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/appcompat-v7-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cardview-v7-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/support-annotations-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/recyclerview-v7-23.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/design-23.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
